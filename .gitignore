@@ -1,0 +1,8 @@
+# mac
+.DS_Store
+.localized
+__MACOSX/
+.AppleDouble
+.LSOverride
+
+node_modules/
