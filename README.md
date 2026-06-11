@@ -1,2 +1,2 @@
 # favicon_refresher
-favicon_refresher
+ブックマークバーのアイコンを裏で開いて再取得するChrome拡張機能
